@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\luaplugin\\plugins\\luasoltwo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasoltwo\\module.luasoltwo.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\luaplugin\\intermediate\\build\\win64\\x64\\luaplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\luaplugin\\plugins\\luasoltwo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasoltwo\\definitions.luasoltwo.h",
+            "d:\\luaplugin\\plugins\\luasoltwo\\intermediate\\build\\win64\\unrealeditor\\inc\\luasoltwo\\uht\\luasoltwo.init.gen.cpp",
+            "d:\\luaplugin\\plugins\\luasoltwo\\intermediate\\build\\win64\\unrealeditor\\inc\\luasoltwo\\uht\\luasoltwobplibrary.gen.cpp",
+            "d:\\luaplugin\\plugins\\luasoltwo\\source\\luasoltwo\\public\\luasoltwobplibrary.h",
+            "d:\\luaplugin\\plugins\\luasoltwo\\intermediate\\build\\win64\\unrealeditor\\inc\\luasoltwo\\uht\\luasoltwobplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

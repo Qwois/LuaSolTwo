@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LuaSolTwo.cpp.obj": [
+			"LuaSolTwo.init.gen.cpp.obj",
+			"LuaSolTwoBPLibrary.gen.cpp.obj",
+			"LuaSolTwo.cpp.obj",
+			"LuaSolTwoBPLibrary.cpp.obj"
+		]
+	}
+}

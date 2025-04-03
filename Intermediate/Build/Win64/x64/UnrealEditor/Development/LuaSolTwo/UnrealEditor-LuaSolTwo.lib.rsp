@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaSolTwo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LuaPlugin\Intermediate\Build\Win64\x64\LuaPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\LuaPlugin\Plugins\LuaSolTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaSolTwo\Module.LuaSolTwo.cpp.obj"
+"D:\LuaPlugin\Plugins\LuaSolTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaSolTwo\LuaSolTwo.cpp.obj"
+"D:\LuaPlugin\Plugins\LuaSolTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaSolTwo\LuaSolTwoBPLibrary.cpp.obj"
+"D:\LuaPlugin\Plugins\LuaSolTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaSolTwo\Default.rc2.res"
+/OUT:"D:\LuaPlugin\Plugins\LuaSolTwo\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaSolTwo\UnrealEditor-LuaSolTwo.lib"
